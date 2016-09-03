@@ -34,7 +34,7 @@ platform :ios do
     gym(
     scheme: "CocoaPodsWebKitFailure",
     toolchain: "com.apple.dt.toolchain.Swift_2_3",
-    use_legacy_build_api: true
+    use_legacy_build_api: false
     ) # Build your app - more options available
 
     # sh "your_script.sh"
