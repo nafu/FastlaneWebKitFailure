@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					720459901D7B230F00B54D14 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8L27T5V5VA;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -260,11 +261,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 8L27T5V5VA;
 				INFOPLIST_FILE = CocoaPodsWebKitFailure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.bsm.ios.CocoaPodsWebKitFailure;
+				PRODUCT_BUNDLE_IDENTIFIER = me.nafu.ios.CocoaPodsWebKitFailure;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "15b0b515-38b4-462a-a40d-a897aefb66c7";
+				PROVISIONING_PROFILE_SPECIFIER = "match Development me.nafu.ios.CocoaPodsWebKitFailure";
 				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
@@ -276,7 +279,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CocoaPodsWebKitFailure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.bsm.ios.CocoaPodsWebKitFailure;
+				PRODUCT_BUNDLE_IDENTIFIER = me.nafu.ios.CocoaPodsWebKitFailure;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 2.3;
 			};
