@@ -96,8 +96,7 @@
 				TargetAttributes = {
 					720459901D7B230F00B54D14 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = YN24FFRTC8;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -261,7 +260,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YN24FFRTC8;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CocoaPodsWebKitFailure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.bsm.ios.CocoaPodsWebKitFailure;
@@ -274,7 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YN24FFRTC8;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = CocoaPodsWebKitFailure/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.bsm.ios.CocoaPodsWebKitFailure;
